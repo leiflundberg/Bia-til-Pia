@@ -1,2 +1,2 @@
 # Bia-til-Pia
-Hovedsiden til BiaTilPia.no
+Hovedsiden til BiaTilPia.no.
